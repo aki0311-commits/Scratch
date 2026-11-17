@@ -2,6 +2,13 @@
 
 既存公開サイトの完成版（バージョン60）をコピーしたものです。元のサイトはそのまま利用できます。
 
+## 押し引きスクリプトの取得
+
+サイト上でiPhone・Android用のブックマークコードをコピーできます。TexTageの譜面ページでブックマークを実行すると、皿の色分けや押し引きの矢印を表示できます。
+
+- [現在利用できる取得ページ](https://textage-scratch-assist.nfxmp5psqt.chatgpt.site/)
+- [GitHub Pages版の取得ページ](https://aki0311-commits.github.io/Scratch/)（GitHub Pagesの公開設定が必要です）
+
 ## GitHub Pagesで公開
 
 このフォルダーの中身をリポジトリにアップロードし、Settings → Pages → Deploy from a branch → main /docs を選んで保存してください。
