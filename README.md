@@ -6,8 +6,7 @@
 
 サイト上でiPhone・Android用のブックマークコードをコピーできます。TexTageの譜面ページでブックマークを実行すると、皿の色分けや押し引きの矢印を表示できます。
 
-- [現在利用できる取得ページ](https://textage-scratch-assist.nfxmp5psqt.chatgpt.site/)
-- [GitHub Pages版の取得ページ](https://aki0311-commits.github.io/Scratch/)（GitHub Pagesの公開設定が必要です）
+- [GitHub Pages版の取得ページ](https://aki0311-commits.github.io/Scratch/)
 
 ## GitHub Pagesで公開
 
